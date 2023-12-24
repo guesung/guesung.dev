@@ -25,7 +25,7 @@ export default siteConfig({
     {
 
       title: 'About me',
-      url: "https://note.guesung.site/about-me"
+      pageId: 'f36b1aaff11946088d2d624730020145'
 
     },
   ],
